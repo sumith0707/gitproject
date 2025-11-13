@@ -9,7 +9,7 @@ h1{
     margin-left:20px;
 }
 
-.profile{
+.profile, .profile2{
     display:flex;
     align-items:flex-start;
     margin:20px;
